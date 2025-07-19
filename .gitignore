@@ -2,6 +2,9 @@
 /credentials/*
 !/credentials/.gitkeep
 
+# Ignore location map HTML file
+location_map.html
+
 .vscode/
 .idea/
 *.pyc
