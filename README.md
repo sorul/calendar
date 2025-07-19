@@ -1,4 +1,4 @@
-# Google Calendar Event Mapper
+# 📅🗺️ Google Calendar Event Mapper
 
 This project connects to your Google Calendar, fetches events from multiple calendars, extracts their locations, geocodes those locations (with OpenCage), and plots them on an interactive map using Folium.
 
@@ -58,6 +58,10 @@ It will:
 - Geocode unknown valid locations
 - Update the `locations.csv` database
 - Plot a map with all known locations
+
+## Map Output
+![Texto alternativo](img/map.png)
+
 
 ## Notes
 
